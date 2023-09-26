@@ -9,10 +9,6 @@ El Excel Row Copy Tool es una herramienta de línea de comandos desarrollada en 
 📋 Puedes seleccionar múltiples filas para copiar, separándolas por comas.
 📝 Puedes asignar nombres personalizados a las columnas en el nuevo archivo.
 
-
-# Cómo Usar 📝
-Sigue estos pasos para utilizar la herramienta Excel Row Copy:
-
 # Requisitos Previos:
 
 Asegúrate de tener Python instalado en tu sistema. Si no lo tienes instalado, puedes descargarlo desde python.org.
